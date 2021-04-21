@@ -3,8 +3,8 @@
 * Course: CPNT-201 Web Design Tools and Techniques
 * Author: [Vitaly Gins](https://github.com/gvitaly87) - Repository owner and maintainer.
 * Github Links:
-  * [GH repo](https://github.com/gvitaly87/cpnt201-a2)
-  * [GH Pages site](https://gvitaly87.github.io/cpnt201-a2/)
+  * [GH repo](https://github.com/gvitaly87/image-optimization-and-srcset)
+  * [GH Pages site](https://gvitaly87.github.io/image-optimization-and-srcset)
 ### Context
 The webpage is designed to display 3 high-frequency processed images. The images are designed to change as the viewport changes, using the *srcset* attribute. 
 
