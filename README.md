@@ -1,4 +1,4 @@
-# CPNT201 - Assignment 2 - Raster Image Optimization
+# Raster Image Optimization - playing with srcset
 ## General Information
 * Course: CPNT-201 Web Design Tools and Techniques
 * Author: [Vitaly Gins](https://github.com/gvitaly87) - Repository owner and maintainer.
